@@ -17,5 +17,10 @@ namespace ConsoleApp1
         {
             Console.Write("Hola de nuevo");
         }
+
+        static void Check()
+        {
+            Console.WriteLine("Esto es un chequeo");
+        }
     }
 }
